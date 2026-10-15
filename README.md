@@ -121,6 +121,8 @@ Uber_Fare_Prediction/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+
 🚀 How to Run the Project
 You can run this project in three ways: on Google Colab (easiest), locally with Python, or by deploying the Streamlit app online.
 
